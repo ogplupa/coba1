@@ -1,0 +1,28 @@
+{
+"product": [
+{"id":1,"name":"Lechwe, kafue flats","category":"Purple"},
+{"id":2,"name":"Snowy sheathbill","category":"Fuscia"},
+{"id":3,"name":"Waxbill, violet-eared","category":"Goldenrod"},
+{"id":4,"name":"Puma","category":"Indigo"},
+{"id":5,"name":"Red deer","category":"Orange"},
+{"id":6,"name":"Bleeding heart monkey","category":"Puce"},
+{"id":7,"name":"Antelope, sable","category":"Khaki"},
+{"id":8,"name":"Woodcock, american","category":"Yellow"},
+{"id":9,"name":"White-faced whistling duck","category":"Turquoise"},
+{"id":10,"name":"Mongoose, eastern dwarf","category":"Green"},
+{"id":11,"name":"Spotted hyena","category":"Green"},
+{"id":12,"name":"Australian brush turkey","category":"Orange"},
+{"id":13,"name":"Heron, green","category":"Puce"},
+{"id":14,"name":"Antelope, sable","category":"Aquamarine"},
+{"id":15,"name":"Stork, jabiru","category":"Violet"},
+{"id":16,"name":"Fisher","category":"Turquoise"},
+{"id":17,"name":"Southern right whale","category":"Yellow"},
+{"id":18,"name":"European stork","category":"Yellow"},
+{"id":19,"name":"Paca","category":"Maroon"},
+{"id":20,"name":"Owl, burrowing","category":"Mauv"},
+{"id":21,"name":"Little blue penguin","category":"Blue"},
+{"id":22,"name":"Bison, american","category":"Violet"},
+{"id":23,"name":"Owl, snowy","category":"Fuscia"},
+{"id":24,"name":"Anaconda (unidentified)","category":"Red"},
+{"id":25,"name":"Cormorant, great","category":"Violet"}]
+}
